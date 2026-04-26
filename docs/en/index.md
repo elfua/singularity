@@ -270,7 +270,7 @@ The signal to look for in **any domain** is not explicit corruption (which is ra
 
 The answers to those five questions in any domain will tell you more about the actual operating reality than any official consensus or regulatory assurance.
 
-!!! danger "Conflicts of interest"
+!!! danger "The true nature of conflicts of interest"
 
     These conflicts of interest are not anomalies in an otherwise functional system. They are the predictable output of a system **designed around the concentration of information, measurement authority, and capital** — with the specific topology that concentration has taken in modernity. Understanding this is not pessimism. It is prerequisite to building anything that actually serves human flourishing rather than extracting from it.
 
