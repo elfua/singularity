@@ -3,7 +3,8 @@ tags:
   - singularity
 ---
 
-<!-- index.md -->
+<!-- index.md
+
 
 <script>
 (()=>location.replace(
@@ -12,4 +13,5 @@ tags:
     : (location.hostname==="elfua.github.io"?"/singularity":"")+"/en/")
 ))();
 </script>
+ -->
 
