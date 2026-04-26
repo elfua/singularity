@@ -336,7 +336,7 @@ Six companies control approximately 90% of US media (and by extension, massive g
 
 ### The Intelligence Interface
 
-This is the less-discussed vector. The relationship between US entertainment (specifically Hollywood) and the intelligence apparatus is not conspiratorial — it is bureaucratically routine.
+The relationship between US entertainment (specifically Hollywood) and the intelligence apparatus is not conspiratorial — it is bureaucratically routine.
 
 The CIA has a formal **Entertainment Industry Liaison** office. The Pentagon has an entertainment liaison that has provided military equipment, location access, and production support to hundreds of films — in exchange for script review and modification authority. Films receiving DoD support include Top Gun, Transformers, Iron Man, and hundreds of others. The price of an aircraft carrier on screen is a script that portrays the military favorably and omits institutionally uncomfortable content.
 
@@ -344,13 +344,21 @@ This is documented through FOIA requests and the work of researchers like Tom Se
 
 !!! quote "The deeper implication"
 
-    **the emotional and mythological architecture of the culture** — what heroism looks like, who the enemy is, what sacrifice means, which institutions are trustworthy — is partially authored by entities with specific geopolitical and institutional agendas. Not entirely. But at the margin, systematically, over decades.
+    **The emotional and mythological architecture of the culture** — what heroism looks like, who the enemy is, what sacrifice means, which institutions are trustworthy — is partially authored by entities with specific geopolitical and institutional agendas. Not entirely. But at the margin, systematically, over decades.
 
 ### The Dopamine Architecture
 
 Social media and streaming platforms are not neutral distribution mechanisms. They are **behavioral modification systems** optimized for engagement metrics, which are maximized by content that triggers strong emotional responses — primarily outrage, fear, and tribalism.
 
-The business model: attention → behavioral data → advertising targeting → political microtargeting → product sales.
+The business model:
+
+```mermaid
+graph LR
+    A[Attention] --> B[Behavioral Data]
+    B --> C[Advertising Targeting]
+    C --> D[Political Microtargeting]
+    D --> E[Product Sales]
+```
 
 The conflict: platforms that profit from emotional dysregulation have no structural incentive to promote content that produces epistemic clarity, emotional equanimity, or civic coherence. The opposite: **conflict, confusion, and compulsion are the product**, not a side effect.
 
