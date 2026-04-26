@@ -284,7 +284,7 @@ The answers to those five questions in any domain will tell you more about the a
 
 ## PART IV — EDUCATION: The Factory Was Never About Learning
 
-!!! quote "Conflict of interest"
+!!! quote "&nbsp;"
 
     Education **is optimized to produce people who cannot identify conflicts of interest**
 
