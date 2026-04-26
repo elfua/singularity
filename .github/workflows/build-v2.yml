@@ -1,0 +1,48 @@
+name: deploy-gh-zensical
+
+# - Go to **Settings → Pages → Source** 
+# and switch from `Deploy from a branch` to **GitHub Actions**. 
+# This is required for the `actions/deploy-pages` action to work 
+# — otherwise it conflicts with the old `gh-pages` branch approach.
+
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/workflows/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/configure-pages@v5
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      # - uses: actions/setup-python@v5
+      #   with:
+      #     python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install zensical
+
+      - name: Build site
+        run: zensical build --clean
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - uses: actions/deploy-pages@v4
+        id: deployment

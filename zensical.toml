@@ -1,0 +1,109 @@
+[project]
+site_name = "singularity"
+site_url  = "https://elfua.github.io/singularity/"
+
+# ── Repository ────────────────────────────────────────────────────────────────
+[project.repo]
+url  = "https://github.com/elfua/singularity.git"
+name = "singularity"
+
+# Note: remote_branch is not yet supported by Zensical.
+# If you deploy to GitHub Pages via CI, set the branch there directly.
+
+# ── Theme ─────────────────────────────────────────────────────────────────────
+[project.theme]
+# variant  = "classic"   # default: modern preserves the Material for MkDocs look exactly
+language = "en"
+
+# Disable Google Fonts (same as font: false in Material)
+[project.theme.font]
+text = false
+code = false
+
+# Light / dark palette with automatic media-query switching
+[[project.theme.palette]]
+media   = "(prefers-color-scheme: light)"
+scheme  = "default"
+primary = "indigo"
+accent  = "indigo"
+
+[project.theme.palette.toggle]
+icon = "material/brightness-7"
+name = "🌓"
+
+[[project.theme.palette]]
+media   = "(prefers-color-scheme: dark)"
+scheme  = "slate"
+primary = "indigo"
+accent  = "indigo"
+
+[project.theme.palette.toggle]
+icon = "material/brightness-4"
+name = "🌞"
+
+[project.markdown_extensions.pymdownx.superfences]
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
+]
+
+# Features
+[project.theme.features]
+"navigation.tabs"     = true   # top-level tabs
+"navigation.sections" = true   # grouped sidebar items
+"navigation.top"      = true   # back-to-top button
+"navigation.tracking" = true   # update URL while scrolling
+"content.code.copy"   = true   # copy-to-clipboard on code blocks
+"search.suggest"      = true   # search suggestions
+"search.highlight"    = true   # highlight search terms on page
+"header.autohide"     = true   # hide header on scroll
+"announce.dismiss"    = true   # dismissible announcement bar
+
+# ── Extra ─────────────────────────────────────────────────────────────────────
+[project.extra]
+highlightjs = false
+generator   = false             # hides the "Made with Zensical" notice
+
+# Language switcher
+[[project.extra.alternate]]
+name = "English"
+link = "/en/"
+lang = "en"
+
+[[project.extra.alternate]]
+name = "Español"
+link = "/es/"
+lang = "es"
+
+# Social links
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/elfua/singularity"
+name = "more"
+
+# ── Markdown extensions ───────────────────────────────────────────────────────
+[project.markdown_extensions]
+admonition          = {}    # info / warning / danger blocks
+"pymdownx.details"  = {}    # collapsible blocks
+"pymdownx.superfences" = {} # nested code blocks
+"pymdownx.inlinehilite" = {} # inline code highlighting
+smarty              = {}
+
+[project.markdown_extensions."pymdownx.highlight"]
+anchor_linenums     = true
+line_spans          = "__span"
+pygments_lang_class = true
+
+[project.markdown_extensions."pymdownx.tabbed"]
+alternate_style = true
+
+[project.markdown_extensions.toc]
+permalink = true              # anchor links on every heading
+
+[project.markdown_extensions.meta]
+
+# ── Plugins / modules ─────────────────────────────────────────────────────────
+# search, tags, and meta are natively handled by Zensical — no pip packages needed.
+[project.plugins]
+search = {}
+tags   = {}
+meta   = {}
