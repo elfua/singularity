@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: nattomamma
+site_url: https://elfua.github.io/natto/
+repo_url: https://github.com/elfua/natto.git
+repo_name: natto
+remote_branch: gh-pages
+
+theme:
+  name: material
+  font: false
+  language: es
+  palette: 
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 🌓
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 🌞
+  features:
+    - navigation.tabs          # Top-level tabs
+    - navigation.sections      # Grouped sidebar items
+    - navigation.top           # "Back to top" button
+    - navigation.tracking      # Update URL as you scroll
+    - content.code.copy        # "Copy to clipboard" button for code blocks
+    - search.suggest           # Search suggestions
+    - search.highlight         # Highlight search terms on page
+    - header.autohide
+    - announce.dismiss
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es
+
+  highlightjs: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/elfua/natto
+      name: more
+  generator: false
+
+markdown_extensions:
+  - admonition                 # Info, Warning, Danger blocks
+  - pymdownx.details           # Collapsible blocks
+  - pymdownx.superfences       # Nested code blocks
+  - pymdownx.highlight:        # Syntax highlighting
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite      # Inline code highlighting
+  - pymdownx.tabbed:           # Tabbed content blocks
+      alternate_style: true
+  - smarty:
+  - toc:
+      permalink: true          # Adds anchor links to headers
+  - meta:
+
+plugins:
+  - search
+  - tags
+  - meta

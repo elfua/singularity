@@ -107,6 +107,7 @@ The Bank for International Settlements (BIS), the "central bank of central banks
 Over 50% of clinical trial funding in major therapeutic areas comes from pharmaceutical companies. The trials that produce the data that regulators use to approve drugs are largely designed, funded, run, and sometimes analyzed by the companies seeking approval.
 
 **Documented mechanisms:**
+
 - Selective publication: negative trials are statistically significantly less likely to be published (publication bias). A company runs 10 trials, 3 show efficacy, 7 show none or harm — publishes the 3.
 - Ghost authorship: company employees write papers, academic physicians sign them, lending independent credibility.
 - The revolving door: senior FDA officials routinely go to pharma companies post-service. Senior pharma executives move onto FDA advisory panels. This is documented by the BMJ and JAMA, not fringe sources.
@@ -458,6 +459,7 @@ The mechanisms are consistent across traditions:
 ### The New Age Industry: Spiritual Capitalism
 
 The "wellness" and "spirituality" market has grown to roughly $1.5–2T globally. This creates a specific conflict: authentic spiritual development tends to:
+
 - Reduce consumerism
 - Increase contentment
 - Decrease susceptibility to status anxiety
