@@ -611,7 +611,7 @@ Every extractive system requires a legitimizing ideology. The academy, media, ph
 
     Feminism becomes a marketing category. 
     
-    Environmentalism becomes [**ESG**](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) investing. 
+    Environmentalism becomes [ESG](https://en.wikipedia.org/wiki/Environmental,_social,_and_governance) investing. 
     
     Social justice becomes corporate diversity programming. 
     
