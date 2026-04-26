@@ -3,15 +3,14 @@ tags:
   - singularity
 ---
 
-<!-- index.md
+<!-- index.md  -->
 
 
 <script>
 (()=>location.replace(
-  ((navigator.language||"en").startsWith("es")
-    ? (location.hostname==="elfua.github.io"?"/singularity":"")+"/es/"
-    : (location.hostname==="elfua.github.io"?"/singularity":"")+"/en/")
+  (location.hostname.endsWith('.io')?"/singularity":"")+
+  ((navigator.language||"en").startsWith("es")?"/es/":"/en/")
 ))();
 </script>
- -->
+
 
