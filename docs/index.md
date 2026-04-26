@@ -1,6 +1,9 @@
 ---
 tags:
   - singularity
+hide:
+  - navigation
+  - toc
 ---
 
 <!-- index.md  -->
