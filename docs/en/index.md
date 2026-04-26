@@ -62,6 +62,7 @@ These are far less discussed and far more consequential.
 **BlackRock, Vanguard, State Street** collectively manage roughly $20–25 trillion in assets. They are the top institutional shareholders of virtually every major publicly traded corporation on Earth — simultaneously.
 
 They own:
+
 - United **AND** Delta **AND** American **AND** Southwest
 - Coca-Cola **AND** PepsiCo
 - JPMorgan **AND** Bank of America **AND** Wells Fargo **AND** Citigroup
@@ -69,6 +70,7 @@ They own:
 - Every major pharmaceutical company. Every major media company. Every major defense contractor.
 
 This means:
+
 - **They have no incentive for competition** to occur between firms in the same sector. Competition destroys shareholder value from the perspective of a shareholder who owns all competitors simultaneously. This is the academic concept of **"common ownership"**, studied by economists Azar, Schmalz, and Tecu (documented reduction in competition and price-setting in airline industries specifically).
 - **They vote the shares** at annual general meetings of all these companies. One entity holds decisive or significant influence over corporate governance across the entire economy simultaneously.
 - **BlackRock specifically** advises central banks and governments on financial stability (including the Federal Reserve during COVID), while simultaneously being one of the largest asset managers whose holdings directly benefit from those same policy decisions.
@@ -117,6 +119,7 @@ Over 50% of clinical trial funding in major therapeutic areas comes from pharmac
 ### 5. AGRICHEMICAL + SEED + FOOD + PHARMA — The Vertical Disease Economy
 
 Bayer (post-Monsanto acquisition) produces:
+
 - **Glyphosate** (Roundup herbicide, documented endocrine disruptor and probable carcinogen per IARC)
 - **Roundup-Ready seeds** (GMO crops engineered to survive glyphosate)
 - **Pharmaceuticals** including drugs treating conditions linked to chronic chemical exposure (metabolic disease, cancers)
@@ -131,6 +134,7 @@ The insurance and pharmaceutical industries then profit from managing the metabo
 ### 6. TECHNOLOGY — Self-Referential Markets
 
 **Google/Alphabet:**
+
 - Dominates internet search (~92% global market share)
 - Sells the advertising inventory on search results
 - Provides Google Analytics (the measurement tool advertisers use to evaluate ad performance — including on Google)
@@ -156,6 +160,7 @@ The insurance and pharmaceutical industries then profit from managing the metabo
 The US defense budget exceeds $800B annually. The top contractors — Lockheed Martin, Raytheon/RTX, Boeing Defense, Northrop Grumman, General Dynamics — receive the bulk of this.
 
 These companies:
+
 - Fund think tanks that advocate for military spending and intervention (Center for Strategic and International Studies, Atlantic Council — both have documented defense contractor funding)
 - Fund congressional campaigns through PACs
 - Employ former generals and senior Pentagon officials (the "revolving door" documented exhaustively by the Project On Government Oversight)
@@ -225,6 +230,7 @@ Beyond economics and law, there is an **epistemic conflict of interest** that su
 - Psychiatric pharmaceutical markets depend on the biological model of mental illness; evidence for trauma-based, relational, or somatic models threatens multi-billion dollar revenue streams.
 
 The suppression mechanism is not always overt. It operates through:
+
 - Peer review gatekeeping (journal editors funded by or affiliated with conflicted parties)
 - Grant funding priorities
 - Credentialing and licensing bodies that define "legitimate" practice
@@ -284,6 +290,7 @@ The answers to those five questions in any domain will tell you more about the a
 The public education system as currently structured was not designed to produce sovereign thinkers. This is not speculation — it is documented in the foundational texts of its architects.
 
 **The Prussian Model** (adopted wholesale by the US in the 19th century, then exported globally) was explicitly designed to produce:
+
 - Obedient factory workers
 - Compliant soldiers
 - Citizens who accept hierarchical authority without interrogation
@@ -316,6 +323,7 @@ Entertainment is not a luxury layer on top of civilization. It is infrastructure
 ### The Consolidation
 
 Six companies control approximately 90% of US media (and by extension, massive global influence): Comcast/NBCUniversal, Disney, Warner Bros Discovery, Paramount Global, Sony, News Corp/Fox. These are not independent voices. They share:
+
 - Overlapping institutional shareholders (BlackRock, Vanguard, et al.)
 - Interlocking board members
 - Shared dependence on advertising revenue from the same Fortune 500 corporations they report on
@@ -396,6 +404,7 @@ Psychiatry sits at the intersection of pharmaceutical conflict (Part II) and soc
 ### The DSM Architecture
 
 The Diagnostic and Statistical Manual is the definitional bible of mental illness. Its categories determine:
+
 - Who gets diagnosed
 - What treatments are "evidence-based"
 - What insurance pays for
@@ -456,6 +465,7 @@ The "wellness" and "spirituality" market has grown to roughly $1.5–2T globally
 These outcomes are structurally bad for a consumer economy. The resolution: **commodify spiritual practice in ways that produce the appearance without the substance**, and which create perpetual consumption rather than resolution.
 
 The wellness industry sells:
+
 - Products (crystals, supplements, devices) promising spiritual effects
 - Experiences as substitutes for practice (retreats, workshops, ceremonies without integration)
 - Identity and community through consumption (the yoga brand, the meditation app)
@@ -560,7 +570,7 @@ This is the inverse of the pharmaceutical conflict but shares the same structure
 
 What emerges when you map all of these simultaneously?
 
-It  is *not* a collection of separate problems. It is a **single recursive architecture** with one core function:
+It is *not* a collection of separate problems. It is a **single recursive architecture** with one core function:
 
 > **Convert human attention, biological potential, social trust, and natural resources into concentrated financial and political power, while continuously producing the conditions — psychological, epistemic, social, political — that prevent this conversion from being recognized or resisted.**
 
@@ -574,6 +584,7 @@ Control what knowledge is legitimate. Fund the research. Own the journals. Staff
 
 ### 3. EMOTIONAL DYSREGULATION AS A FEATURE
 A chronically stressed, sleep-deprived, nutritionally depleted, screen-addicted, socially isolated population is:
+
 - Neurologically impaired in prefrontal function (rational long-term planning)
 - Hyperreactive in amygdala function (fear, tribal threat response)
 - Susceptible to authoritarian certainty
@@ -600,6 +611,7 @@ Every extractive system requires a legitimizing ideology. The academy, media, ph
 
 ### 5. MANAGED OPPOSITION
 Any political or social movement that threatens structural power will be approached with one of three strategies:
+
 - Cooptation (fund it, absorb it, redirect it)
 - Infiltration (documented in COINTELPRO and similar operations globally)
 - Controlled opposition (create or amplify movements that appear threatening while actually serving to consolidate power or divide potential coalitions)
