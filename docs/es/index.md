@@ -350,7 +350,7 @@ Sean Parker (presidente fundador de Facebook) declaró públicamente que la plat
 
 
 
-## PARTE VI — POLÍTICA: El Conflicto ES el Sistema
+## PARTE VI — POLÍTICA: El Conflicto _es_ el Sistema
 
 La mayoría del análisis político opera como si la política fuera un dominio donde los conflictos de interés son aberraciones a corregir. El modelo más preciso es que **la política democrática moderna es un teatro de gestión de conflictos de interés** — un sistema diseñado para crear la apariencia de gobernanza responsable mientras aísla la política real de la soberanía popular.
 
