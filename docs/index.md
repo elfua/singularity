@@ -1,4 +1,5 @@
 ---
+title: Singularity
 tags:
   - singularity
 hide:
