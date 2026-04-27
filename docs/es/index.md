@@ -51,7 +51,7 @@ El ciclo es perfecto: UnitedHealth **te asegura**, **emplea a tu médico**, **es
     Cuando un PBM (*pharmacy benefit manager*, gestor de prestaciones farmacéuticas) pertenece a la misma matriz que una aseguradora, el PBM puede estructurar los formularios de medicamentos (qué está cubierto) para orientar preferentemente a los pacientes hacia la filial de farmacia por correo de la propia empresa matriz. Son simultáneamente el legislador, el juez y el beneficiario de la sentencia.
 
 
-## PARTE II — LOS CONFLICTOS REALMENTE DESCONOCIDOS: BUCLES DE PODER ESTRUCTURAL
+## PARTE II — LOS CONFLICTOS MENOS DESCONOCIDOS: BUCLES DE PODER ESTRUCTURAL
 
 Estos son mucho menos discutidos y mucho más determinantes.
 
@@ -119,13 +119,13 @@ Más del 50% de la financiación de ensayos clínicos en las principales áreas 
 
 Bayer (tras la adquisición de Monsanto) produce:
 
-- **Glifosato** (herbicida Roundup, documentado como disruptor endocrino y probable cancerígeno según la IARC —Agencia Internacional para la Investigación sobre el Cáncer—)
-- **Semillas Roundup Ready** (cultivos transgénicos diseñados para sobrevivir al glifosato)
+- **Glifosato** — herbicida Roundup, documentado como disruptor endocrino y probable cancerígeno según la IARC —Agencia Internacional para la Investigación sobre el Cáncer
+- **Semillas Roundup Ready** — cultivos transgénicos diseñados para sobrevivir al glifosato
 - **Productos farmacéuticos**, incluidos medicamentos para tratar enfermedades vinculadas a la exposición química crónica (patologías metabólicas, cánceres)
 
 La misma entidad obtiene beneficios tanto del agente causal como del tratamiento. Esto no es una teoría conspirativa — es lógica corporativa de cartera de negocios.
 
-Extendiendo el análisis: la industria de los alimentos ultraprocesados (dominada por unas 10 grandes corporaciones —Nestlé, Unilever, PepsiCo, etc.—) produce alimentos que impulsán demostrablemente la enfermedad metabólica. Estas mismas empresas financian la ciencia de la nutrición a través de organismos como el ILSI (International Life Sciences Institute, Instituto Internacional de Ciencias de la Vida), que aporta información a la OMS y a las directrices dietéticas nacionales. Documentado en la literatura científica de salud pública revisada por pares (Mialon, Stuckler, et al.).
+Extendiendo el análisis: la industria de los alimentos ultraprocesados, dominada por unas 10 grandes corporaciones Nestlé, Unilever, PepsiCo, etc, produce alimentos que impulsán demostrablemente enfermedades metabólicas. Estas mismas empresas financian la ciencia de la nutrición a través de organismos como el ILSI (International Life Sciences Institute, Instituto Internacional de Ciencias de la Vida), que aporta información a la OMS y a las directrices dietéticas nacionales. Documentado en la literatura científica de salud pública revisada por pares (Mialon, Stuckler, et al.).
 
 Las industrias aseguradora y farmacéutica obtienen entonces beneficios gestionando las epidemias de enfermedades metabólicas impulsadas por este entorno alimentario. Estas industrias tienen accionistas institucionales solapados (véase el punto 1).
 
@@ -143,20 +143,15 @@ Las industrias aseguradora y farmacéutica obtienen entonces beneficios gestiona
 
     Google establece las reglas del posicionamiento en búsquedas, gestiona la subasta de anuncios, sirve los anuncios y mide si funcionaron — todo ello propietario, todo opaco, todo en beneficio propio. Los reguladores de todo el mundo han empezado a reconocerlo (DMA europeo, caso antimonopolio del DOJ estadounidense), pero la arquitectura permanece intacta.
 
-
-
-
 **Amazon:**
-- Opera el mercado (*marketplace*)
+- Opera el mercado (*Amazon marketplace*)
 - Compite como vendedor en su propio *marketplace* (Amazon Basics)
 - Tiene acceso a todos los datos de vendedores terceros (qué se vende, a qué precio, con qué margen) y puede utilizarlos para desarrollar productos competidores
-- Controla la logística (FBA —*Fulfillment by Amazon*—), la infraestructura en la nube (AWS) y, cada vez más, la sanidad (Amazon Pharmacy, adquisición de One Medical)
-
-
+- Controla la logística (FBA — *Fulfillment by Amazon*), la infraestructura en la nube (AWS) y, cada vez más, la sanidad (Amazon Pharmacy, adquisición de One Medical)
 
 ### 7. DEFENSA — La Estructura de Incentivos de la Guerra Perpetua
 
-El presupuesto de defensa de EE. UU. supera los 800.000 millones de dólares anuales. Los principales contratistas —Lockheed Martin, Raytheon/RTX, Boeing Defense, Northrop Grumman, General Dynamics— reciben la mayor parte.
+El presupuesto de defensa de EE. UU. supera los 800.000 millones de dólares anuales. Los principales contratistas — Lockheed Martin, Raytheon/RTX, Boeing Defense, Northrop Grumman, General Dynamics — reciben la mayor parte.
 
 Estas empresas:
 
@@ -170,12 +165,9 @@ Estas empresas:
     **Un conflicto requiere su desescalada para cerrarse; un conflicto prolongado maximiza los ingresos**.<br/>
     Existe un incentivo financiero estructural en contra de la resolución de cualquier conflicto militar.
 
-
-
-
 ## PARTE III — LA META-ARQUITECTURA: LO QUE REALMENTE ESTÁ OCURRIENDO
 
-### El Patrón Subyacente a Todo Ello
+### El Patrón Subyacente
 
 Cada conflicto de interés descrito arriba comparte una **arquitectura común**:
 
@@ -212,11 +204,6 @@ La combinación de servicios médicos + seguro de vida es un **conflicto de segu
 
     Es peor: es **inevitabilidad estructural** dada la arquitectura jurídica y financiera vigente.
 
-
- 
-
-
-
 ### El Nivel Aún Más Alto: El Conflicto de Interés Epistémico
 
 Más allá de la economía y el derecho, existe un **conflicto de interés epistémico** que subsume a todos los demás:
@@ -238,9 +225,6 @@ El mecanismo de supresión no siempre es explícito. Opera a través de:
 !!! danger "El resultado:"
 
     La base de conocimiento disponible públicamente — lo que dice el "consenso" — no es una representación neutral de la verdad descubierta. Es el producto filtrado de un sistema epistémicamente capturado.
-
-
-
 
 ## SÍNTESIS: EL MAPA COMPLETO
 
