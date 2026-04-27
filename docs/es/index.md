@@ -469,13 +469,13 @@ La versión más sofisticada: plataformas como Gaia, y la industria de la "conci
 
 
 
-## PARTE IX — CRIANZA: El CONFLICTO QUE NADIE VE
+## PARTE IX — Familia: el conflicto que nadie ve
 
 Este es posiblemente el dominio menos examinado y uno de los más determinantes.
 
 ### La Familia como Unidad de Producción
 
-El conflicto de interés integrado en la crianza moderna es que **los niños se crían dentro de un sistema que tiene interés en producir tipos específicos de adultos** — concretamente:
+El conflicto de interés integrado en la familia moderna es que **los niños se crían dentro de un sistema que tiene interés en producir tipos específicos de adultos** — concretamente:
 
 - Trabajadores que aceptan el empleo jerárquico sin cuestionarlo en lo fundamental
 - Consumidores cuya identidad se construye sustancialmente a través de la compra
@@ -484,7 +484,7 @@ El conflicto de interés integrado en la crianza moderna es que **los niños se 
 
 Los mecanismos:
 
-**La ruptura del apego a escala**: el capitalismo industrial requiere que ambos progenitores participen en el mercado laboral — no como elección libre sino como necesidad económica para la mayoría. Esto interrumpe sistemáticamente el período de apego prolongado que la ciencia del desarrollo (Bowlby, Ainsworth y décadas de investigación posteriores) identifica como fundamental para la seguridad psicológica, la regulación emocional y el desarrollo cognitivo. Los niños criados con patrones de apego interrumpidos producen adultos con perfiles psicológicos específicos — ansiedad, complacencia con los demás (*people-pleasing*), insatisfacción crónica — que son muy funcionales para el capitalismo de consumo y la jerarquía laboral.
+**La ruptura del apego a escala**: el capitalismo industrial requiere que ambos padres participen en el mercado laboral — no como elección libre sino como necesidad económica para la mayoría. Esto interrumpe sistemáticamente el período de apego prolongado que la ciencia del desarrollo (Bowlby, Ainsworth y décadas de investigación posteriores) identifica como fundamental para la seguridad psicológica, la regulación emocional y el desarrollo cognitivo. Los niños criados con patrones de apego interrumpidos producen adultos con perfiles psicológicos específicos — ansiedad, complacencia con los demás (*people-pleasing*), insatisfacción crónica — que son muy funcionales para el capitalismo de consumo y la jerarquía laboral.
 
 Esto no es un diseño deliberado en la mayoría de los casos. Es la **consecuencia emergente de una estructura económica indiferente a las necesidades del desarrollo**, que genera resultados predecibles que a su vez crean mercados.
 
