@@ -7,9 +7,6 @@ hide:
   - toc
 ---
 
-<!-- index.md  -->
-
-
 <script>
 (()=>location.replace(
   (location.hostname.endsWith('.io')?"/singularity":"")+
