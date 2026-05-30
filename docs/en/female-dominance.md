@@ -5,7 +5,7 @@ hide:
   - path
 extra:
   css: |
-    .md-header {
+    header, .md-header {
       display: none !important;
     }
 ---
