@@ -4,11 +4,6 @@ hide:
   - navigation
   - toc
   - path
-extra:
-  css: |
-    header, .md-header {
-      display: none !important;
-    }
 ---
 <!DOCTYPE html>
 <html lang="es">
@@ -50,10 +45,8 @@ body {
   padding: 7rem 2rem 10rem;
 }
 
-header {
-  margin-bottom: 5rem;
-  padding-bottom: 2.5rem;
-  border-bottom: 1px solid var(--rule);
+header, .md-header {
+	display: none !important;
 }
 
 .overline {

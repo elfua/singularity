@@ -48,6 +48,7 @@ custom_fences = [
 
 # Features
 [project.theme.features]
+"navigation.instant"  = true   # 
 "navigation.tabs"     = true   # top-level tabs
 "navigation.sections" = true   # grouped sidebar items
 "navigation.top"      = true   # back-to-top button
