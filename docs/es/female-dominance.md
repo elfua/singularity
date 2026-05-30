@@ -49,6 +49,12 @@ header, .md-header {
 	display: none !important;
 }
 
+div.header {
+  margin-bottom: 5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
 .overline {
   font-family: var(--mono);
   font-size: 0.62rem;
@@ -195,7 +201,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
 <body>
 <div class="page">
 
-<header>
+<div class="header">
   <span class="overline">Resumen ejecutivo &mdash; descomposición estructural</span>
   <h1>La dominancia femenina:<br>una arquitectura completa</h1>
   <p class="lede">Biología, arquetipos, neurociencia, antropología y variantes modernas — comprimidos en una sola narración continua para una retención máxima.</p>
@@ -203,7 +209,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
     <span>Biología &rarr; Arquetipos &rarr; Mecanismos &rarr; Formas modernas</span>
     <span>~2.000 palabras</span>
   </div>
-</header>
+</div>
 
 <article>
 

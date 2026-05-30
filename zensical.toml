@@ -76,10 +76,10 @@ link = "/es/"
 lang = "es"
 
 # Social links
-[[project.extra.social]]
-icon = "fontawesome/brands/github"
-link = "https://github.com/elfua/singularity"
-name = "more"
+# [[project.extra.social]]
+# icon = "fontawesome/brands/github"
+# link = "https://github.com/elfua/singularity"
+# name = "more"
 
 # ── Markdown extensions ───────────────────────────────────────────────────────
 [project.markdown_extensions]

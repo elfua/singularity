@@ -48,6 +48,12 @@ header, .md-header {
 	display: none !important;
 }
 
+div.header {
+  margin-bottom: 5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
 .overline {
   font-family: var(--mono);
   font-size: 0.62rem;
@@ -194,7 +200,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
 <body>
 <div class="page">
 
-<header>
+<div class="header">
   <span class="overline">Executive summary &mdash; structural decomposition</span>
   <h1>Female Dominance:<br>A Complete Architecture</h1>
   <p class="lede">Biology, archetypes, neuroscience, anthropology, and modern variants — compressed into one continuous narrative for maximum retention.</p>
@@ -202,7 +208,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
     <span>Biology &rarr; Archetypes &rarr; Mechanisms &rarr; Modern forms</span>
     <span>~2,000 words</span>
   </div>
-</header>
+</div>
 
 <article>
 
