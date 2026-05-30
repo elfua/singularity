@@ -1,5 +1,5 @@
 ---
-title: "Conflicto de Interés ≈ Corrupción Sistémica"
+title: "¿Conflicto de Interés o Corrupción Sistémica?"
 
 tags:
   - singularidad
