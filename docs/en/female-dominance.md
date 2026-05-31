@@ -203,7 +203,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
 <div class="header">
   <span class="overline">Executive summary &mdash; structural decomposition</span>
   <h1>Female Dominance:<br>A Complete Architecture</h1>
-  <p class="lede">Biology, archetypes, neuroscience, anthropology, and modern variants — compressed into one continuous narrative for maximum retention.</p>
+  <p class="lede">Biology, archetypes, neuroscience, anthropology, and modern variants.</p>
   <div class="meta">
     <span>Biology &rarr; Archetypes &rarr; Mechanisms &rarr; Modern forms</span>
     <span>~2,000 words</span>
