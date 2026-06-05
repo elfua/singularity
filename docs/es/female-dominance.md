@@ -204,7 +204,7 @@ article p:nth-of-type(3) { animation: fadeUp 0.7s 0.2s ease both; }
 <div class="header">
   <span class="overline">Resumen ejecutivo &mdash; descomposición estructural</span>
   <h1>La dominancia femenina:<br>una arquitectura completa</h1>
-  <p class="lede">Biología, arquetipos, neurociencia, antropología y variantes modernas — comprimidos en una sola narración continua para una retención máxima.</p>
+  <p class="lede">Biología, arquetipos, neurociencia, antropología y variantes modernas.</p>
   <div class="meta">
     <span>Biología &rarr; Arquetipos &rarr; Mecanismos &rarr; Formas modernas</span>
     <span>~2.000 palabras</span>
